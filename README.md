@@ -2,6 +2,13 @@
 
 Fruit Market is a modern Flutter mobile application for online fruit and grocery shopping, designed with a clean user interface and smooth user experience.
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Firebase-Optional-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+</div>
+
 ## ✨ Features
 
 * Splash Screen with animation
