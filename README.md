@@ -35,6 +35,21 @@ Fruit Market is a modern Flutter mobile application for online fruit and grocery
 * REST API Integration using Dio
 * Responsive Design
 
+## 📱 Screenshots
+
+<div align="center">
+  <img src="screenshots/Screenshot_1776117826.png" width="200" alt="Screenshot 1">
+  <img src="screenshots/Screenshot_1776117828.png" width="200" alt="Screenshot 2">
+  <img src="screenshots/Screenshot_1776117831.png" width="200" alt="Screenshot 3">
+  <img src="screenshots/Screenshot_1776117837.png" width="200" alt="Screenshot 4">
+  <img src="screenshots/Screenshot_1776117952.png" width="200" alt="Screenshot 5">
+  <img src="screenshots/Screenshot_1776118005.png" width="200" alt="Screenshot 6">
+  <img src="screenshots/Screenshot_1776118016.png" width="200" alt="Screenshot 7">
+  <img src="screenshots/Screenshot_1776118023.png" width="200" alt="Screenshot 8">
+  <img src="screenshots/Screenshot_1776118033.png" width="200" alt="Screenshot 9">
+  <img src="screenshots/Screenshot_1776118039.png" width="200" alt="Screenshot 10">
+  <img src="screenshots/Screenshot_1776118063.png" width="200" alt="Screenshot 11">
+</div>
 ## 📦 Architecture
 
 The project follows clean architecture with reusable widgets and organized folders:
@@ -78,8 +93,6 @@ Firebase Phone Authentication is used for:
 2. Run flutter pub get
 3. Connect Firebase
 4. Run the project
-
-## 📸 Screenshots
 
 (Add your screenshots here)
 
